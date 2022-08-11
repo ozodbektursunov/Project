@@ -1,0 +1,51 @@
+body{
+    background-color: aqua;
+}
+.div1{
+    border: pink 2px solid;
+    background-color: blueviolet;
+}
+.div2{
+    border: yellow 2px solid;
+    background-color: red;
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 50px; */
+    padding: 10px 50px 50px 100px;
+    /* margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px; */
+    margin: 10px 100px 50px 30px;
+}
+.div3{
+    border: pink 2px solid;
+    background-color: green;
+}
+.foo{
+    background-color: #83889C;
+}
+.foo1{
+    background-color: #545871;
+    color: white;
+}
+.foo2{
+    padding-left: 110px;
+}
+.foo3{
+    padding-left: 183px;
+}
+.foo4{
+    padding-left: 243px;
+    text-align: center;
+    background-color: #ECD0CD;
+}
+.Malika{
+    border: solid 2px white;
+    background-color: #545871;
+    width: 600px;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
